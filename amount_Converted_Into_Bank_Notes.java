@@ -1,7 +1,7 @@
 package begineer_Level_Exercise_1;
 // Write a Java program to read an amount (integer value) and break the amount
 // into smallest possible number of bank notes.
-    import java.util.Scanner;
+import java.util.Scanner;
 public class amount_Converted_Into_Bank_Notes {
     public static void main (String args[]){
         System.out.println("Enter your number to convert into note denomination");
